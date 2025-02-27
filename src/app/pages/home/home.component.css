@@ -1,0 +1,7 @@
+/* Hero Section */
+.hero {
+    background: linear-gradient(to right, #000000, #434343); /* Negro a gris oscuro */
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
